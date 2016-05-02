@@ -1,11 +1,15 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <title>タイトル</title>
-  <link rel="stylesheet"href="css/default.css"type="text/css">
-</head?
-<body>
+@charset "UTF-8";
 
-</body>
-</html>
+body{
+  background-color:#fbf9cc;
+}
+
+h1 a{
+  font-size:1.75;
+  color:#3399cc;
+}
+
+#kyu{
+  b
+}
+
